@@ -1,0 +1,32 @@
+{
+  "name": "generate_pgp",
+  "version": "1.0.0",
+  "description": "A package/CLI to quickly generate and upload PGP keys.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaJuukes/gen_pgp_keys.git"
+  },
+  "keywords": [
+    "PGP",
+    "key",
+    "generation",
+    "key",
+    "generation",
+    "easy",
+    "command",
+    "line"
+  ],
+  "author": "DaJuukes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DaJuukes/gen_pgp_keys/issues"
+  },
+  "homepage": "https://github.com/DaJuukes/gen_pgp_keys#readme",
+  "devDependencies": {
+    "eslint-plugin-mocha-only": "0.0.3"
+  }
+}
